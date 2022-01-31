@@ -1,10 +1,10 @@
 # TicTacToe
 <h3>Used</h3>
-<h4>JAVA</h4>
-●Conditional Statements
-●Loops
-●Branching Statements
-●Object and Class
-●Strings
-●Arrays
-●HashSet
+<p>Developed using Java language</p>
+●Conditional Statements<br>
+●Loops<br>
+●Branching Statements<br>
+●Object and Class<br>
+●Strings<br>
+●Arrays<br>
+●HashSet<br>
